@@ -6,8 +6,11 @@ A mesa digitalizadora, tem se tornado gradualmente uma parte muito importante do
 Antes de escolher a melhor para o seu trabalho, é importante checar:
 
 Tamanho, pois existem mesas maiores e menores. Confira quanto espaço você terá disponível;
+
 Resolução, porque apesar de nem todas as mesas terem tela própria e ser necessário ver o trabalho no computador, ainda possuem resolução em LPI (linha por polegada). Quanto maior for, melhor é a precisão da mesa;
+
 Conectividade, já que é necessário checar se a mesa funciona só com USB ou já possui tecnologia Bluetooth;
+
 Caneta, pois cada modelo possui uma caneta diferente, com pontas e estilos diferentes. Também é importante ver se a mesa em questão aceita canetas de outras marcas, caso você queira trocar.
 
 Essas são as mesas mais vendidas de XP-PEN:
